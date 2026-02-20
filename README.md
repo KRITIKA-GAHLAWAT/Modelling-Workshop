@@ -1,12 +1,11 @@
 # Breast Cancer Diagnosis Using Statistical Neural Networks
 
-## 📌 Overview
-
+##  Overview
 Breast cancer is one of the leading causes of cancer-related deaths among women.  
 This project implements **Statistical Neural Networks** for **breast cancer diagnosis**,  
 using machine learning models to classify tumors as **benign** or **malignant**.
 
-### 🔍 Key Features
+###  Key Features
 
 - **Dataset**: University of Wisconsin Breast Cancer Database (699 samples, 9 attributes).
 - **Machine Learning Models**:
@@ -15,7 +14,7 @@ using machine learning models to classify tumors as **benign** or **malignant**.
   - **General Regression Neural Network (GRNN)** – A kernel regression model for function approximation.
 - **Performance Evaluation**: Accuracy, Sensitivity, Specificity, ROC Curve.
 
-## 📊 Dataset Information
+##  Dataset Information
 
 The dataset contains **9 cell-based attributes**, each rated from **1 to 10**:
 
@@ -33,7 +32,7 @@ The classification labels:
 - **Benign (Non-Cancerous)**
 - **Malignant (Cancerous)**
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository:
 
